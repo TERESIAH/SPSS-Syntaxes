@@ -1,0 +1,19 @@
+﻿* Encoding: UTF-8.
+*******Reducing the data*******
+
+
+
+
+SAVE OUTFILE='D:\Dalberg Research\IFAD-TANZANIA\Data\28-03-2018\Small.sav'
+  /COMPRESSED
+/KEEP=SbjNum
+IDATE
+STARTTIMEINTERVIEW
+Q_4
+ENAME Q101 Q102 Q104 Q_21 Q_21_b Q110 Q103 Q111 Q112 
+Q104
+T_27_1
+T_27_2
+Q112
+Q108_1  Q_2140 Q_2140_S  
+I_2_T_723_1 to Q_1487_S_T_1487_7.
